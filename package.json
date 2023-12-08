@@ -1,0 +1,13 @@
+{
+  "name" : "hello-auth",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "dependencies": {
+    "mysql" : "2.18.1",
+    "express": "4.18.2",
+    "dotenv": "16.3.1",
+    "argon2": "0.31.2",
+    "jsonwebtoken":"9.0.2"
+  }
+}
